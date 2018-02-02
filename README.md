@@ -2,8 +2,9 @@
 Using Arduino UNO and waterproof DS18B20 sensor to monitor water temperature in aquarium tank.
 
 ## Schematic
+![schematic](./schematic.jpg)
 
-## Required Library
+## Download Library
 https://github.com/milesburton/Arduino-Temperature-Control-Library
 
 ## Arduino Code
