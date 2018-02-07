@@ -1,6 +1,3 @@
-# Aquarium tank water temperature sensor
-Using Arduino UNO and waterproof DS18B20 sensor to monitor water temperature in aquarium tank.
-
 ## Schematic
 ![schematic](./schematic.jpg)
 
